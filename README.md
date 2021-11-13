@@ -4,6 +4,7 @@ This Table of Contents list the ever increasing number of CUDA C++ projects that
 
 ## NERSC Training Series
 
+[HW 02](https://github.com/TallDave67/cuda-nersc-hw02)
 [HW 01](https://github.com/TallDave67/cuda-nersc-hw01)
 
 ## OpenCV
